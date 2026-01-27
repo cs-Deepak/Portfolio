@@ -30,7 +30,7 @@ const projectsData = [
       "Developed a full-stack Livestock & Agri Products Management Web Application using React.js for frontend and NestJS for backend. The platform enabled users to make online donations and purchase agri-based products such as dairy items and organic vegetables. Implemented secure RESTful APIs, integrated MongoDB for managing users, donations, orders, and products, and added JWT-based authentication for secure access. Focused on building a scalable, user-friendly, and production-ready application.",
     images: [g1, g2, g3, g4, g5, g6, g7, g8, g9, g10],
     // github: "https://github.com/cs-Deepak/Lara_Car",
-    // live: "https://lara-car-r3qg.vercel.app/",
+    live: "https://gaushalaapp.onrender.com",
   },
   {
     id: 1,
